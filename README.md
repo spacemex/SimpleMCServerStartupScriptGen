@@ -16,7 +16,7 @@ This repository contains a script for generating server startup scripts with wat
 1. **Run the Executable:**
 
     - For Windows: Double click the `GenerateScripts.exe` file.
-    - Or Run The .bat File in Source.
+    - Or Run The `.bat` File in Source.
 
 2. **Follow the Prompts:**
 
@@ -35,6 +35,15 @@ This repository contains a script for generating server startup scripts with wat
 
     - For Windows: Double click the `StartServer.bat`.
     - For Linux/Mac: Run `./StartServer.sh` in the terminal.
+
+## Verifying Integrity
+
+To ensure the integrity of the `MinecraftStartScriptGenerator.bat` file, you can verify the following hashes:
+
+- **MD5**: [ca1b6b16232b7a480d805ef5c6fe9b08](https://www.toolsley.com/hash.html#v=md5|ca1b6b16232b7a480d805ef5c6fe9b08&f=MinecraftStartScriptGenerator.bat)
+- **SHA-1**: [0079ae595e7592377a49dc45c3760de7ce4127ad](https://www.toolsley.com/hash.html#v=sha1|0079ae595e7592377a49dc45c3760de7ce4127ad&f=MinecraftStartScriptGenerator.bat)
+- **SHA-256**: [b917392f401c4ace5a55a4e2bb0cb41a37f8b450a185155f51b7f5a156994397](https://www.toolsley.com/hash.html#v=sha256|b917392f401c4ace5a55a4e2bb0cb41a37f8b450a185155f51b7f5a156994397&f=MinecraftStartScriptGenerator.bat)
+- **CRC32**: [1fb57124](https://www.toolsley.com/hash.html#v=crc32|1fb57124&f=MinecraftStartScriptGenerator.bat)
 
 ## Contributing
 
