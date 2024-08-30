@@ -13,10 +13,10 @@ This repository contains a script for generating server startup scripts with wat
 
 ## How to Use
 
-1. **Run the Script:**
+1. **Run the Executable:**
 
     - For Windows: Double click the `GenerateScripts.exe` file.
-    - For Linux/Mac: Run `chmod +x GenerateScripts.sh` followed by `./GenerateScripts.sh` in the terminal.
+    - Or Run The .bat File in Source.
 
 2. **Follow the Prompts:**
 
